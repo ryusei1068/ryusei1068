@@ -3,7 +3,7 @@
 I'm interested in WebSocket, WebRTC.  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryusei1068&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/ryusei1068/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryusei1068&theme=vue-dark&show_icons=true&layout=langs_count=8)](https://github.com/ryusei1068/github-readme-stats)  
 
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ryusei1068&theme=vue-dark&show_icons=true)](https://github.com/ryusei1068/github-readme-stats)  
 
