@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Ryusei  
 
-I'm interested in webSocket, webRTC.  
+I'm interested in WebSocket, WebRTC.  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryusei1068&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/ryusei1068/github-readme-stats)  
