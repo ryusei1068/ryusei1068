@@ -1,4 +1,6 @@
-### Hi I'm 👋 Ryusei
+### Hi 👋, I'm Ryusei  
+
+I love Go
 
 <!--
 **ryusei1068/ryusei1068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
