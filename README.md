@@ -3,9 +3,9 @@
 I'm interested in WebSocket, WebRTC.  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryusei1068&theme=vue-dark&show_icons=true&layout=langs_count=8)](https://github.com/ryusei1068/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryusei1068&layout=langs_count=8&show_icons=true)](https://github.com/ryusei1068/github-readme-stats)  
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ryusei1068&theme=vue-dark&show_icons=true)](https://github.com/ryusei1068/github-readme-stats)  
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ryusei1068&show_icons=true)](https://github.com/ryusei1068/github-readme-stats)  
 
 <!--
 **ryusei1068/ryusei1068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
